@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<scenarios>
+    <scenario name="CustomWaypointFollowerScenario2_1" type="CustomWaypointFollowerScenario2" town="Town10HD_Opt">
+        <!--
+            x=-25.0 when vehicle speed=20kmph and x=-21.0 when vehicle speed=10kmph
+        -->
+        <other_actor x="-30.0" y="-64.5" z="0.5" yaw="0" model="vehicle.nissan.patrol" />
+        <other_actor x="-48.98" y="-7.0" z="0.5" yaw="0" model="vehicle.nissan.patrol" />
+        <other_actor x="-18.0" y="-64.5" z="0.5" yaw="0" model="vehicle.ford.ambulance" />
+        <other_actor x="-48.98" y="-16.0" z="0.5" yaw="0" model="vehicle.ford.ambulance" />
+        <other_actor x="-99.33" y="-38.5" z="0.5" yaw="0" model="vehicle.mini.cooper_s_2021" />
+        <other_actor x="-52.35" y="80.0" z="0.5" yaw="0" model="vehicle.mini.cooper_s_2021" />
+        <other_actor x="-66.0" y="21.8" z="0.5" yaw="0" model="vehicle.mercedes.sprinter" />
+        <other_actor x="-82.0" y="-63.26" z="0.5" yaw="0" model="vehicle.mercedes.sprinter" />
+        <other_actor x="-75.0" y="21.8" z="0.5" yaw="0" model="vehicle.nissan.patrol_2021" />
+        <other_actor x="-74.0" y="-64.81" z="0.5" yaw="0" model="vehicle.nissan.patrol_2021" />
+        <other_actor x="-81.0" y="21.8" z="0.5" yaw="0" model="vehicle.tesla.model3" />
+        <other_actor x="-69.0" y="-65.0" z="0.5" yaw="0" model="vehicle.tesla.model3" />
+        <other_actor x="26.0" y="16.65" z="0.5" yaw="0" model="vehicle.lincoln.mkz_2020" />
+        <other_actor x="-48.98" y="97.0" z="0.5" yaw="0" model="vehicle.lincoln.mkz_2020" />
+        <other_actor x="35.0" y="16.65" z="0.5" yaw="0" model="vehicle.ford.crown" />
+        <other_actor x="-48.98" y="90.0" z="0.5" yaw="0" model="vehicle.ford.crown" />
+        <weather cloudiness="0" precipitation="0" precipitation_deposits="0" wind_intensity="0" sun_azimuth_angle="0" sun_altitude_angle="75" />
+    </scenario>
+</scenarios>

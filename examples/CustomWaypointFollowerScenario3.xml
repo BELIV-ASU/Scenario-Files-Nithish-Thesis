@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<scenarios>
+    <scenario name="CustomWaypointFollowerScenario3_1" type="CustomWaypointFollowerScenario3" town="Town10HD_Opt">
+        <other_actor x="-110.28" y="0.0" z="0.5" yaw="0" model="vehicle.mercedes.sprinter" />
+        <other_actor x="-63.5" y="24.7" z="0.5" yaw="0" model="vehicle.mercedes.sprinter" />
+        <other_actor x="-67.2" y="-58.17" z="0.5" yaw="0" model="vehicle.mini.cooper_s_2021" />
+        <other_actor x="-52.35" y="45.0" z="0.5" yaw="0" model="vehicle.mini.cooper_s_2021" />
+        <weather cloudiness="0" precipitation="0" precipitation_deposits="0" wind_intensity="0" sun_azimuth_angle="0" sun_altitude_angle="75" />
+    </scenario>
+</scenarios>
